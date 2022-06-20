@@ -1,0 +1,18 @@
+Package: phyloP35way.UCSC.mm39
+Type: Package
+Title: UCSC phyloP mm39 conservation scores AnnotationHub Resource Metadata
+Version: 3.16.0
+Encoding: UTF-8
+Authors@R: c(person("Robert", "Castelo", role=c("aut", "cre"),
+        email="robert.castelo@upf.edu"))
+Description: Store UCSC phyloP mm39 conservation scores AnnotationHub Resource Metadata.
+        Provide provenance and citation information for UCSC phyloP mm39 conservation
+        score AnnotationHub resources. Illustrate in a vignette how to access those resources.
+VignetteBuilder: knitr
+License: Artistic-2.0
+Depends: GenomicScores, AnnotationHub
+Suggests: knitr, rmarkdown, BiocStyle
+biocViews: AnnotationData, PackageType, AnnotationHub, Organism, Mus_musculus
+organism: Mus musculus
+provider: UCSC
+provider_version: 22Dec2020

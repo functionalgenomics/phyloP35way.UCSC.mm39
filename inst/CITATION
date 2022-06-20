@@ -1,0 +1,11 @@
+bibentry(bibtype = "Article",
+         author = c(person(given = "Katherine S. Pollard"),
+                    person(given = "Melissa J. Hubisz"),
+                    person(given = "Kate R. Rosenbloom"),
+                    person(given = "Adam Siepel")),
+         title = "Detection of nonneutral substitution rates on mammalian phylogenies",
+         journal = "Genome Research",
+         volume = "20",
+         pages = "110-121",
+         year = "2010",
+         doi = "10.1101/gr.097857.109")
