@@ -23,7 +23,7 @@
 }
 
 \examples{
-\dontrun{
+\donttest{
 library(GenomicScores)
 
 gsco <- getGScores("phyloP35way.UCSC.mm39")
